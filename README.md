@@ -29,6 +29,13 @@ WC-XI-Analyzer is an analytical project that provides insights into the top stat
    - Utilize provided scripts or notebooks to clean and structure the scraped data.
 3. **Analysis and Visualization:**
    - Access Jupyter notebooks for detailed analysis and Power BI reports for interactive visualizations.
+## Dashboard 
+
+The below image shows the dashboard representing batters (openers) who are top scorer's with good average and strike rate. The filters have been done on the transformed data so that it can short list to top 5 across the season. 
+![image](https://github.com/user-attachments/assets/fd9ccbbb-2edc-4601-8e76-209c9d2c8be1)
+Similarly applying required filters to middle order and finisher batters and to spin and fast bowlers along with keepers and all rounders achieved made a 15 member squad so that the desired playing 11 can be choosen from them. 
+
+
 
 ## Dependencies
 
